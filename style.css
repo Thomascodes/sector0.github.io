@@ -11,7 +11,7 @@ h1.mh {
 	padding-left: 1em;
 	padding-right: 1em;
 	line-height: 1.125;
-	animation: upAndDownintTJ 4s ease-in-out infinite;
+	animation: upAndDown 4s ease-in-out infinite;
 	margin:0
 }
 
